@@ -1,0 +1,46 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=383V2_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\network
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\CCP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\CCP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\CCP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\CCP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\CCP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\CCP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\CCP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\CCP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\HRP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\HRP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\HRP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\HRP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\HRP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\HRP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\HRP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\HRP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\JFP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\JFP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\JFP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\JFP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\JFP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\JFP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\JFP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\JFP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\SFP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\SFP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\SFP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\SFP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\SFP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\SFP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\SFP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\SFP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\STP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\STP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\STP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\STP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\STP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\STP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\STP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\STP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\THP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\THP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\THP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\THP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\THP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\THP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\THP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\THP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\TYP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\TYP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\TYP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\TYP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\TYP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\TYP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\TYP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\TYP\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\WSP\ibtusb.cat" "production\Windows10-x64\0\Drivers\Drivers\WSP\ibtusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\WSP\ibtusb.inf" "production\Windows10-x64\0\Drivers\Drivers\WSP\ibtusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\WSP\ibtusb.sys" "production\Windows10-x64\0\Drivers\Drivers\WSP\ibtusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\383V2_A00-00\production\Windows10-x64\0\Drivers\Drivers\WSP\release.dat" "production\Windows10-x64\0\Drivers\Drivers\WSP\release.dat"
+

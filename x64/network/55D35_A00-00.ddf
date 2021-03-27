@@ -1,0 +1,20 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=55D35_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\network
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\55D35_A00-00\Drivers\Dell-I219-12.19.0.16\e1d68x64.cat" "Drivers\Dell-I219-12.19.0.16\e1d68x64.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\55D35_A00-00\Drivers\Dell-I219-12.19.0.16\e1d68x64.din" "Drivers\Dell-I219-12.19.0.16\e1d68x64.din"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\55D35_A00-00\Drivers\Dell-I219-12.19.0.16\e1d68x64.inf" "Drivers\Dell-I219-12.19.0.16\e1d68x64.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\55D35_A00-00\Drivers\Dell-I219-12.19.0.16\e1d68x64.sys" "Drivers\Dell-I219-12.19.0.16\e1d68x64.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\55D35_A00-00\Drivers\Dell-I219-12.19.0.16\e1dmsg.dll" "Drivers\Dell-I219-12.19.0.16\e1dmsg.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\55D35_A00-00\Drivers\Dell-I219-12.19.0.16\release.dat" "Drivers\Dell-I219-12.19.0.16\release.dat"
+

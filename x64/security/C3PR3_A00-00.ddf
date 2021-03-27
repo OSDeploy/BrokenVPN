@@ -1,0 +1,58 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=C3PR3_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\security
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcclx.cat" "18356\Drivers\cv\bcmnfcclx.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcclx.dll" "18356\Drivers\cv\bcmnfcclx.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcclx.inf" "18356\Drivers\cv\bcmnfcclx.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcser-x64.cat" "18356\Drivers\cv\bcmnfcser-x64.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcser.dll" "18356\Drivers\cv\bcmnfcser.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcser.inf" "18356\Drivers\cv\bcmnfcser.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfctusb.dll" "18356\Drivers\cv\bcmnfctusb.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcusb-x64.cat" "18356\Drivers\cv\bcmnfcusb-x64.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcusb.inf" "18356\Drivers\cv\bcmnfcusb.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcusb.sys" "18356\Drivers\cv\bcmnfcusb.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bcmnfcutil.dll" "18356\Drivers\cv\bcmnfcutil.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\BrcmEngineAdapter.dll" "18356\Drivers\cv\BrcmEngineAdapter.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\BrcmSensorAdapter.dll" "18356\Drivers\cv\BrcmSensorAdapter.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\BrcmStorageAdapter.dll" "18356\Drivers\cv\BrcmStorageAdapter.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\cvault.cat" "18356\Drivers\cv\cvault.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\cvusbdrv.inf" "18356\Drivers\cv\cvusbdrv.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\cvusbdrv.sys" "18356\Drivers\cv\cvusbdrv.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\release.dat" "18356\Drivers\cv\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\ushwbfdrv.dll" "18356\Drivers\cv\ushwbfdrv.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\ushwbfdrv.inf" "18356\Drivers\cv\ushwbfdrv.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\wbfcvusbdrv.cat" "18356\Drivers\cv\wbfcvusbdrv.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\wbfcvusbdrv.sys" "18356\Drivers\cv\wbfcvusbdrv.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\WUDFUpdate_01009.dll" "18356\Drivers\cv\WUDFUpdate_01009.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmbipdll.dll" "18356\Drivers\cv\bin\bcmbipdll.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmcvproppage.dll" "18356\Drivers\cv\bin\bcmcvproppage.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmCVRemoteServer.exe" "18356\Drivers\cv\bin\bcmCVRemoteServer.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmCVUsrIfc.dll" "18356\Drivers\cv\bin\bcmCVUsrIfc.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmFirmwareUpgradeProgress.exe" "18356\Drivers\cv\bin\bcmFirmwareUpgradeProgress.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmHostControlService.exe" "18356\Drivers\cv\bin\bcmHostControlService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmHostStorageService.exe" "18356\Drivers\cv\bin\bcmHostStorageService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmlms.dll" "18356\Drivers\cv\bin\bcmlms.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\bin\bcmUshUpgradeService.exe" "18356\Drivers\cv\bin\bcmUshUpgradeService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmCitadel_1.otp" "18356\Drivers\cv\firmware\bcmCitadel_1.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmCitadel_7.otp" "18356\Drivers\cv\firmware\bcmCitadel_7.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmDeviceFirmwareCitadel_1.bin" "18356\Drivers\cv\firmware\bcmDeviceFirmwareCitadel_1.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmDeviceFirmwareCitadel_7.bin" "18356\Drivers\cv\firmware\bcmDeviceFirmwareCitadel_7.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmsbiCitadelA0_1.otp" "18356\Drivers\cv\firmware\bcmsbiCitadelA0_1.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmsbiCitadelA0_7.otp" "18356\Drivers\cv\firmware\bcmsbiCitadelA0_7.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmsbiCitadelA0_FE.otp" "18356\Drivers\cv\firmware\bcmsbiCitadelA0_FE.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmsbiCitadelA0_Unassigned.otp" "18356\Drivers\cv\firmware\bcmsbiCitadelA0_Unassigned.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmsbi_External_1.otp" "18356\Drivers\cv\firmware\bcmsbi_External_1.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcmsbi_External_7.otp" "18356\Drivers\cv\firmware\bcmsbi_External_7.otp"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcm_cv_clearscd.bin" "18356\Drivers\cv\firmware\bcm_cv_clearscd.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\security\C3PR3_A00-00\18356\Drivers\cv\firmware\bcm_cv_current_version.txt" "18356\Drivers\cv\firmware\bcm_cv_current_version.txt"
+

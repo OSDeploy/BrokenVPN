@@ -1,0 +1,74 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=CC82Y_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\network
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\AdminService.exe" "Drivers\Bluetooth\AdminService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\atheros_bth.inf" "Drivers\Bluetooth\atheros_bth.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\AthrBT_0x00000200.dfu" "Drivers\Bluetooth\AthrBT_0x00000200.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\AthrBT_0x00000300.dfu" "Drivers\Bluetooth\AthrBT_0x00000300.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\AthrBT_0x00000302.dfu" "Drivers\Bluetooth\AthrBT_0x00000302.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\AthrBT_TF_0x00000302.dfu" "Drivers\Bluetooth\AthrBT_TF_0x00000302.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\btatherosInstall.exe" "Drivers\Bluetooth\btatherosInstall.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\btfilter.cat" "Drivers\Bluetooth\btfilter.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\btfilter.sys" "Drivers\Bluetooth\btfilter.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\devAMD64.exe" "Drivers\Bluetooth\devAMD64.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\NvmMerge.exe" "Drivers\Bluetooth\NvmMerge.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000200_48.dfu" "Drivers\Bluetooth\ramps_0x00000200_48.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000200_48_NFA354.dfu" "Drivers\Bluetooth\ramps_0x00000200_48_NFA354.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000300_48.dfu" "Drivers\Bluetooth\ramps_0x00000300_48.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000300_48_NFA435_10db.dfu" "Drivers\Bluetooth\ramps_0x00000300_48_NFA435_10db.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000302_48.dfu" "Drivers\Bluetooth\ramps_0x00000302_48.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000302_48_NFA354A_10db.dfu" "Drivers\Bluetooth\ramps_0x00000302_48_NFA354A_10db.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_0x00000302_48_tx8.dfu" "Drivers\Bluetooth\ramps_0x00000302_48_tx8.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_TF_0x00000302_48.dfu" "Drivers\Bluetooth\ramps_TF_0x00000302_48.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\ramps_TF_0x00000302_48_NFA435_10dbm.dfu" "Drivers\Bluetooth\ramps_TF_0x00000302_48_NFA435_10dbm.dfu"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\Bluetooth\release.dat" "Drivers\Bluetooth\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\Data61x4_2_2.msc" "Drivers\WLAN\Data61x4_2_2.msc"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\Data9377_2_0.msc" "Drivers\WLAN\Data9377_2_0.msc"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA324i_5.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA324i_5.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA324i_5_RV_0520.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA324i_5_RV_0520.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA324i_5_RV_0522.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA324i_5_RV_0522.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344a.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344a.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_0410.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_0410.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_0419.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_0419.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_08E0.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_08E0.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_08E2.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_08E2.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_08E9.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_08E9.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_5459.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_5459.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_P139G.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_P139G.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_P83F.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_P83F.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_P87G.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_DE_P87G.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_RV_0519.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA344A_power1213_RV_0519.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_LE_1.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_LE_1.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_LE_2.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_LE_2.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_RV_0519.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_RV_0519.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_RV_0520.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_RV_0520.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_DE_0522.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_DE_0522.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_DE_0523.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_DE_0523.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_DE_0524.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_DE_0524.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_RV_0519.bin" "Drivers\WLAN\eeprom_ar6320_3p0_NFA364xp_ssku_RV_0519.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc.bin" "Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_089C.bin" "Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_089C.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_P130G.bin" "Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_P130G.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_P87G.bin" "Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_P87G.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_P88G.bin" "Drivers\WLAN\eeprom_qca9377_1p1_NFA435_olpc_DE_P88G.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\netathr10x.inf" "Drivers\WLAN\netathr10x.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\qca61x4_2_2.bin" "Drivers\WLAN\qca61x4_2_2.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\qca9377_2_0.bin" "Drivers\WLAN\qca9377_2_0.bin"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\Qcamain10x64.sys" "Drivers\WLAN\Qcamain10x64.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\qcamainext10x.cat" "Drivers\WLAN\qcamainext10x.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\QcomWlanSrvx64.exe" "Drivers\WLAN\QcomWlanSrvx64.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\CC82Y_A00-00\Drivers\WLAN\release.dat" "Drivers\WLAN\release.dat"
+

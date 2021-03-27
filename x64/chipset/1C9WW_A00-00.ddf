@@ -1,0 +1,23 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=1C9WW_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\chipset
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\release.dat" "Drivers\WU\DrvBin64\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\RsCRIcon.dll" "Drivers\WU\DrvBin64\RsCRIcon.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\RtsPer.sys" "Drivers\WU\DrvBin64\RtsPer.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\rtsper64.cat" "Drivers\WU\DrvBin64\rtsper64.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\RtsPerDLNQS.inf" "Drivers\WU\DrvBin64\RtsPerDLNQS.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\ExtInf\release.dat" "Drivers\WU\DrvBin64\ExtInf\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\ExtInf\RtsCrExt.inf" "Drivers\WU\DrvBin64\ExtInf\RtsCrExt.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\ExtInf\rtscrext64.cat" "Drivers\WU\DrvBin64\ExtInf\rtscrext64.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\1C9WW_A00-00\Drivers\WU\DrvBin64\ExtInf\SDRTCPRM.dll" "Drivers\WU\DrvBin64\ExtInf\SDRTCPRM.dll"
+

@@ -1,0 +1,50 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=GHMX2_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\chipset
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\HID_PCI\hid_pci.cat" "production\Drivers\WU\SetupISS_CML\HID_PCI\hid_pci.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\HID_PCI\HID_PCI.inf" "production\Drivers\WU\SetupISS_CML\HID_PCI\HID_PCI.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\HID_PCI\HID_PCI.sys" "production\Drivers\WU\SetupISS_CML\HID_PCI\HID_PCI.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\HID_PCI\release.dat" "production\Drivers\WU\SetupISS_CML\HID_PCI\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH\ish.cat" "production\Drivers\WU\SetupISS_CML\ISH\ish.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH\ISH.inf" "production\Drivers\WU\SetupISS_CML\ISH\ISH.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH\ISH.sys" "production\Drivers\WU\SetupISS_CML\ISH\ISH.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH\release.dat" "production\Drivers\WU\SetupISS_CML\ISH\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH_BusDriver\ish_busdriver.cat" "production\Drivers\WU\SetupISS_CML\ISH_BusDriver\ish_busdriver.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH_BusDriver\ISH_BusDriver.inf" "production\Drivers\WU\SetupISS_CML\ISH_BusDriver\ISH_BusDriver.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH_BusDriver\ISH_BusDriver.sys" "production\Drivers\WU\SetupISS_CML\ISH_BusDriver\ISH_BusDriver.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_CML\ISH_BusDriver\release.dat" "production\Drivers\WU\SetupISS_CML\ISH_BusDriver\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\HID_PCI\hid_pci.cat" "production\Drivers\WU\SetupISS_ICL\HID_PCI\hid_pci.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\HID_PCI\HID_PCI.inf" "production\Drivers\WU\SetupISS_ICL\HID_PCI\HID_PCI.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\HID_PCI\HID_PCI.sys" "production\Drivers\WU\SetupISS_ICL\HID_PCI\HID_PCI.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\HID_PCI\release.dat" "production\Drivers\WU\SetupISS_ICL\HID_PCI\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH\ish.cat" "production\Drivers\WU\SetupISS_ICL\ISH\ish.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH\ISH.inf" "production\Drivers\WU\SetupISS_ICL\ISH\ISH.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH\ISH.sys" "production\Drivers\WU\SetupISS_ICL\ISH\ISH.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH\release.dat" "production\Drivers\WU\SetupISS_ICL\ISH\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\ish_busdriver.cat" "production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\ish_busdriver.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\ISH_BusDriver.inf" "production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\ISH_BusDriver.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\ISH_BusDriver.sys" "production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\ISH_BusDriver.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\release.dat" "production\Drivers\WU\SetupISS_ICL\ISH_BusDriver\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\HID_PCI\hid_pci.cat" "production\Drivers\WU\SetupISS_TGL\HID_PCI\hid_pci.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\HID_PCI\HID_PCI.inf" "production\Drivers\WU\SetupISS_TGL\HID_PCI\HID_PCI.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\HID_PCI\HID_PCI.sys" "production\Drivers\WU\SetupISS_TGL\HID_PCI\HID_PCI.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\HID_PCI\release.dat" "production\Drivers\WU\SetupISS_TGL\HID_PCI\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH\ish.cat" "production\Drivers\WU\SetupISS_TGL\ISH\ish.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH\ISH.inf" "production\Drivers\WU\SetupISS_TGL\ISH\ISH.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH\ISH.sys" "production\Drivers\WU\SetupISS_TGL\ISH\ISH.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH\release.dat" "production\Drivers\WU\SetupISS_TGL\ISH\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\ish_busdriver.cat" "production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\ish_busdriver.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\ISH_BusDriver.inf" "production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\ISH_BusDriver.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\ISH_BusDriver.sys" "production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\ISH_BusDriver.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\GHMX2_A00-00\production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\release.dat" "production\Drivers\WU\SetupISS_TGL\ISH_BusDriver\release.dat"
+

@@ -1,0 +1,51 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=5TF8M_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\chipset
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_gpio2_cnl.cat" "Drivers\WU\ialpss2_gpio2_cnl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_GPIO2_CNL.inf" "Drivers\WU\iaLPSS2_GPIO2_CNL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_GPIO2_CNL.sys" "Drivers\WU\iaLPSS2_GPIO2_CNL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_gpio2_icl.cat" "Drivers\WU\ialpss2_gpio2_icl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_GPIO2_ICL.inf" "Drivers\WU\iaLPSS2_GPIO2_ICL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_GPIO2_ICL.sys" "Drivers\WU\iaLPSS2_GPIO2_ICL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_gpio2_tgl.cat" "Drivers\WU\ialpss2_gpio2_tgl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_GPIO2_TGL.inf" "Drivers\WU\iaLPSS2_GPIO2_TGL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_GPIO2_TGL.sys" "Drivers\WU\iaLPSS2_GPIO2_TGL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_i2c_cnl.cat" "Drivers\WU\ialpss2_i2c_cnl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_I2C_CNL.inf" "Drivers\WU\iaLPSS2_I2C_CNL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_I2C_CNL.sys" "Drivers\WU\iaLPSS2_I2C_CNL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_i2c_icl.cat" "Drivers\WU\ialpss2_i2c_icl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_I2C_ICL.inf" "Drivers\WU\iaLPSS2_I2C_ICL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_I2C_ICL.sys" "Drivers\WU\iaLPSS2_I2C_ICL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_i2c_tgl.cat" "Drivers\WU\ialpss2_i2c_tgl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_I2C_TGL.inf" "Drivers\WU\iaLPSS2_I2C_TGL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_I2C_TGL.sys" "Drivers\WU\iaLPSS2_I2C_TGL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_spi_cnl.cat" "Drivers\WU\ialpss2_spi_cnl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_SPI_CNL.inf" "Drivers\WU\iaLPSS2_SPI_CNL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_SPI_CNL.sys" "Drivers\WU\iaLPSS2_SPI_CNL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_spi_icl.cat" "Drivers\WU\ialpss2_spi_icl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_SPI_ICL.inf" "Drivers\WU\iaLPSS2_SPI_ICL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_SPI_ICL.sys" "Drivers\WU\iaLPSS2_SPI_ICL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_spi_tgl.cat" "Drivers\WU\ialpss2_spi_tgl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_SPI_TGL.inf" "Drivers\WU\iaLPSS2_SPI_TGL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_SPI_TGL.sys" "Drivers\WU\iaLPSS2_SPI_TGL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_uart2_cnl.cat" "Drivers\WU\ialpss2_uart2_cnl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_UART2_CNL.inf" "Drivers\WU\iaLPSS2_UART2_CNL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_UART2_CNL.sys" "Drivers\WU\iaLPSS2_UART2_CNL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_uart2_icl.cat" "Drivers\WU\ialpss2_uart2_icl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_UART2_ICL.inf" "Drivers\WU\iaLPSS2_UART2_ICL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_UART2_ICL.sys" "Drivers\WU\iaLPSS2_UART2_ICL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\ialpss2_uart2_tgl.cat" "Drivers\WU\ialpss2_uart2_tgl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_UART2_TGL.inf" "Drivers\WU\iaLPSS2_UART2_TGL.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\iaLPSS2_UART2_TGL.sys" "Drivers\WU\iaLPSS2_UART2_TGL.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\5TF8M_A00-00\Drivers\WU\release.dat" "Drivers\WU\release.dat"
+

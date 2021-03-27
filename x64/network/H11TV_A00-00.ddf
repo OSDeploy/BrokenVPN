@@ -1,0 +1,32 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=H11TV_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\network
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\IntelIhvRouter04.dll" "Drivers\IntelIhvRouter04.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\IntelIhvRouter06.dll" "Drivers\IntelIhvRouter06.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\IntelIhvRouter08.dll" "Drivers\IntelIhvRouter08.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwfw04.dat" "Drivers\Netwfw04.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwfw06.dat" "Drivers\Netwfw06.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwfw08.dat" "Drivers\Netwfw08.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwfw10.dat" "Drivers\Netwfw10.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\netwtw04.cat" "Drivers\netwtw04.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwtw04.INF" "Drivers\Netwtw04.INF"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\NETwtw04.sys" "Drivers\NETwtw04.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\netwtw06.cat" "Drivers\netwtw06.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwtw06.INF" "Drivers\Netwtw06.INF"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\NETwtw06.sys" "Drivers\NETwtw06.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\netwtw08.cat" "Drivers\netwtw08.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\Netwtw08.INF" "Drivers\Netwtw08.INF"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\NETwtw08.sys" "Drivers\NETwtw08.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\NETwtw10.sys" "Drivers\NETwtw10.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\network\H11TV_A00-00\Drivers\release.dat" "Drivers\release.dat"
+

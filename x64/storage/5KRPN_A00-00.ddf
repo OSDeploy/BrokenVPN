@@ -1,0 +1,53 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=5KRPN_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\storage
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\HsaComponent\iaStorHsaComponent.cat" "F6\HsaComponent\iaStorHsaComponent.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\HsaComponent\iaStorHsaComponent.inf" "F6\HsaComponent\iaStorHsaComponent.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\HsaComponent\release.dat" "F6\HsaComponent\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\HsaExtension\iaStorHsa_Ext.cat" "F6\HsaExtension\iaStorHsa_Ext.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\HsaExtension\iaStorHsa_Ext.inf" "F6\HsaExtension\iaStorHsa_Ext.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\HsaExtension\release.dat" "F6\HsaExtension\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\iaStorAfsServiceApi.dll" "F6\PinningComponent\iaStorAfsServiceApi.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\iaStorPinningComponent.cat" "F6\PinningComponent\iaStorPinningComponent.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\iaStorPinningComponent.inf" "F6\PinningComponent\iaStorPinningComponent.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\log4net.dll" "F6\PinningComponent\log4net.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\OptaneShellExt.dll" "F6\PinningComponent\OptaneShellExt.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\PinningServiceApi.dll" "F6\PinningComponent\PinningServiceApi.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\release.dat" "F6\PinningComponent\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\PinningComponent\SharpShell.dll" "F6\PinningComponent\SharpShell.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\iaStorAfs.sys" "F6\[1]VMD\f6vmdflpy-x64\iaStorAfs.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\iaStorAfsNative.exe" "F6\[1]VMD\f6vmdflpy-x64\iaStorAfsNative.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\iaStorAfsService.exe" "F6\[1]VMD\f6vmdflpy-x64\iaStorAfsService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\iaStorVD.cat" "F6\[1]VMD\f6vmdflpy-x64\iaStorVD.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\iaStorVD.inf" "F6\[1]VMD\f6vmdflpy-x64\iaStorVD.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\iaStorVD.sys" "F6\[1]VMD\f6vmdflpy-x64\iaStorVD.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\Optane.dll" "F6\[1]VMD\f6vmdflpy-x64\Optane.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\OptaneEventLogMsg.dll" "F6\[1]VMD\f6vmdflpy-x64\OptaneEventLogMsg.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\release.dat" "F6\[1]VMD\f6vmdflpy-x64\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\RstMwEventLogMsg.dll" "F6\[1]VMD\f6vmdflpy-x64\RstMwEventLogMsg.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[1]VMD\f6vmdflpy-x64\RstMwService.exe" "F6\[1]VMD\f6vmdflpy-x64\RstMwService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\HfcDisableService.exe" "F6\[2]NonVMD\f6flpy-x64\HfcDisableService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaAHCIC.cat" "F6\[2]NonVMD\f6flpy-x64\iaAHCIC.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaAHCIC.inf" "F6\[2]NonVMD\f6flpy-x64\iaAHCIC.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaStorAC.cat" "F6\[2]NonVMD\f6flpy-x64\iaStorAC.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaStorAC.inf" "F6\[2]NonVMD\f6flpy-x64\iaStorAC.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaStorAC.sys" "F6\[2]NonVMD\f6flpy-x64\iaStorAC.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaStorAfs.sys" "F6\[2]NonVMD\f6flpy-x64\iaStorAfs.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaStorAfsNative.exe" "F6\[2]NonVMD\f6flpy-x64\iaStorAfsNative.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\iaStorAfsService.exe" "F6\[2]NonVMD\f6flpy-x64\iaStorAfsService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\Optane.dll" "F6\[2]NonVMD\f6flpy-x64\Optane.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\OptaneEventLogMsg.dll" "F6\[2]NonVMD\f6flpy-x64\OptaneEventLogMsg.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\release.dat" "F6\[2]NonVMD\f6flpy-x64\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\RstMwEventLogMsg.dll" "F6\[2]NonVMD\f6flpy-x64\RstMwEventLogMsg.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\storage\5KRPN_A00-00\F6\[2]NonVMD\f6flpy-x64\RstMwService.exe" "F6\[2]NonVMD\f6flpy-x64\RstMwService.exe"
+

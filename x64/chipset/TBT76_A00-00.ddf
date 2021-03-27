@@ -1,0 +1,30 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=TBT76_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\chipset
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\release.dat" "production\Windows10-x64\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtBusDrv.sys" "production\Windows10-x64\TbtBusDrv.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtControlCenterToastLauncher.exe" "production\Windows10-x64\TbtControlCenterToastLauncher.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtFilterDrv.dll" "production\Windows10-x64\TbtFilterDrv.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\tbthostcontroller.cat" "production\Windows10-x64\tbthostcontroller.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtHostController.inf" "production\Windows10-x64\TbtHostController.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\tbthostcontrollerextension.cat" "production\Windows10-x64\tbthostcontrollerextension.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtHostControllerExtension.inf" "production\Windows10-x64\TbtHostControllerExtension.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\tbthostcontrollerhsacomponent.cat" "production\Windows10-x64\tbthostcontrollerhsacomponent.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtHostControllerHsaComponent.inf" "production\Windows10-x64\TbtHostControllerHsaComponent.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\tbthostcontrollertoastcomponent.cat" "production\Windows10-x64\tbthostcontrollertoastcomponent.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtHostControllerToastComponent.inf" "production\Windows10-x64\TbtHostControllerToastComponent.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\tbtp2pndisdrv.cat" "production\Windows10-x64\tbtp2pndisdrv.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtP2pNdisDrv.inf" "production\Windows10-x64\TbtP2pNdisDrv.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\TbtP2pNdisDrv.sys" "production\Windows10-x64\TbtP2pNdisDrv.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\TBT76_A00-00\production\Windows10-x64\ThunderboltService.exe" "production\Windows10-x64\ThunderboltService.exe"
+

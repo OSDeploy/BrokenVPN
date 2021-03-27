@@ -1,0 +1,49 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=45VTM_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\chipset
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\Dptf.dll" "production\Windows10-x64\17134\Drivers\x64\Dptf.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyActive.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyActive.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyActive2.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyActive2.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyAdaptivePerformance.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyAdaptivePerformance.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyAdaptiveUserPresence.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyAdaptiveUserPresence.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyCritical.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyCritical.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyPassive.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyPassive.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyPassive2.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyPassive2.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyPid.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyPid.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyPowerBoss.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyPowerBoss.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyPowerShare.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyPowerShare.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyPowerShare2.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyPowerShare2.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyRfim.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyRfim.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicySystemConfiguration.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicySystemConfiguration.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\DptfPolicyVirtualSensor.dll" "production\Windows10-x64\17134\Drivers\x64\DptfPolicyVirtualSensor.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_acpi.cat" "production\Windows10-x64\17134\Drivers\x64\dptf_acpi.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_acpi.inf" "production\Windows10-x64\17134\Drivers\x64\dptf_acpi.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_acpi.sys" "production\Windows10-x64\17134\Drivers\x64\dptf_acpi.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_cpu.cat" "production\Windows10-x64\17134\Drivers\x64\dptf_cpu.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_cpu.inf" "production\Windows10-x64\17134\Drivers\x64\dptf_cpu.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_cpu.sys" "production\Windows10-x64\17134\Drivers\x64\dptf_cpu.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dptf_helper.exe" "production\Windows10-x64\17134\Drivers\x64\dptf_helper.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\dsp.dv" "production\Windows10-x64\17134\Drivers\x64\dsp.dv"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\esif_cmp.dll" "production\Windows10-x64\17134\Drivers\x64\esif_cmp.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\esif_lf.sys" "production\Windows10-x64\17134\Drivers\x64\esif_lf.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\esif_uf.exe" "production\Windows10-x64\17134\Drivers\x64\esif_uf.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\esif_umdf2.dll" "production\Windows10-x64\17134\Drivers\x64\esif_umdf2.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\esif_ws.dll" "production\Windows10-x64\17134\Drivers\x64\esif_ws.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\release.dat" "production\Windows10-x64\17134\Drivers\x64\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\upe_battery.dll" "production\Windows10-x64\17134\Drivers\x64\upe_battery.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\upe_hwpf.dll" "production\Windows10-x64\17134\Drivers\x64\upe_hwpf.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\upe_nvme.dll" "production\Windows10-x64\17134\Drivers\x64\upe_nvme.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\upe_socwc.dll" "production\Windows10-x64\17134\Drivers\x64\upe_socwc.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\upe_wifi.dll" "production\Windows10-x64\17134\Drivers\x64\upe_wifi.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\chipset\45VTM_A00-00\production\Windows10-x64\17134\Drivers\x64\upe_wwan.dll" "production\Windows10-x64\17134\Drivers\x64\upe_wwan.dll"
+

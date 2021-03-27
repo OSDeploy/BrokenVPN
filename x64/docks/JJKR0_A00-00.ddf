@@ -1,0 +1,34 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=JJKR0_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\docks
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\release.dat" "production\Windows10-x64\U\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\rtdusbad.cat" "production\Windows10-x64\U\rtdusbad.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\RtDUsbAD_dell.inf" "production\Windows10-x64\U\RtDUsbAD_dell.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\RtUsbA64.sys" "production\Windows10-x64\U\RtUsbA64.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\RTUSBAIODAT.DAT" "production\Windows10-x64\U\RTUSBAIODAT.DAT"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\CodecExtOem_RTK_43\extrtxusb.cat" "production\Windows10-x64\U\Realtek\CodecExtOem_RTK_43\extrtxusb.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\CodecExtOem_RTK_43\ExtRtXUsb_Dell_WAVES.inf" "production\Windows10-x64\U\Realtek\CodecExtOem_RTK_43\ExtRtXUsb_Dell_WAVES.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\CodecExtOem_RTK_43\release.dat" "production\Windows10-x64\U\Realtek\CodecExtOem_RTK_43\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\realtekservice.cat" "production\Windows10-x64\U\Realtek\RealtekService_276\realtekservice.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\RealtekService.inf" "production\Windows10-x64\U\Realtek\RealtekService_276\RealtekService.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\release.dat" "production\Windows10-x64\U\Realtek\RealtekService_276\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\RtCOM64.dll" "production\Windows10-x64\U\Realtek\RealtekService_276\RtCOM64.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\RtDataProc64.dll" "production\Windows10-x64\U\Realtek\RealtekService_276\RtDataProc64.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\RtkApi64U.dll" "production\Windows10-x64\U\Realtek\RealtekService_276\RtkApi64U.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\RtkAudUService64.exe" "production\Windows10-x64\U\Realtek\RealtekService_276\RtkAudUService64.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekService_276\RtkCfg64.dll" "production\Windows10-x64\U\Realtek\RealtekService_276\RtkCfg64.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\realtekusbapo.cat" "production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\realtekusbapo.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\RealtekUSBAPO.inf" "production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\RealtekUSBAPO.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\release.dat" "production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\docks\JJKR0_A00-00\production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\RtkMicUUn64.dll" "production\Windows10-x64\U\Realtek\RealtekUSBAPO_733\RtkMicUUn64.dll"
+

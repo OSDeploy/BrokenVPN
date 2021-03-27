@@ -1,0 +1,34 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=N88NY_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\communication
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\fbconfig.ini" "Drivers\fbconfig.ini"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\FwSwitchService.exe" "Drivers\FwSwitchService.exe"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\fwupdatedriver.cat" "Drivers\fwupdatedriver.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\FwUpdateDriver.dll" "Drivers\FwUpdateDriver.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\FwUpdateDriver.inf" "Drivers\FwUpdateDriver.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\GNSSDriverSUPLInfo-DTD.xml" "Drivers\GNSSDriverSUPLInfo-DTD.xml"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\intelgnssdriver.cat" "Drivers\intelgnssdriver.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\IntelGNSSDriver.dll" "Drivers\IntelGNSSDriver.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\IntelGNSSDriver.inf" "Drivers\IntelGNSSDriver.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\M2_7360_NAND.flz" "Drivers\M2_7360_NAND.flz"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\ModemControl.cat" "Drivers\ModemControl.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\ModemControl.dll" "Drivers\ModemControl.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\ModemControl.inf" "Drivers\ModemControl.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\pthread.dll" "Drivers\pthread.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\release.dat" "Drivers\release.dat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\Ude.cat" "Drivers\Ude.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\Ude.inf" "Drivers\Ude.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\Ude.sys" "Drivers\Ude.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\WinIhvRil.dll" "Drivers\WinIhvRil.dll"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\communication\N88NY_A00-00\Drivers\winihvril_configuration.xml" "Drivers\winihvril_configuration.xml"
+

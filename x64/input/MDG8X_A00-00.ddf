@@ -1,0 +1,18 @@
+﻿;*** MakeCAB Directive file;
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=MDG8X_A00-00.cab
+.Set DiskDirectory1=E:\OSDDrivers\Packages\DellMultiPack 10.0 x64\x64\input
+.Set Cabinet=ON
+.Set Compress=ON
+.Set CompressionType=LZX
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\input\MDG8X_A00-00\Drivers\x64\hideventfilter.cat" "Drivers\x64\hideventfilter.cat"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\input\MDG8X_A00-00\Drivers\x64\HidEventFilter.inf" "Drivers\x64\HidEventFilter.inf"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\input\MDG8X_A00-00\Drivers\x64\HidEventFilter.sys" "Drivers\x64\HidEventFilter.sys"
+"E:\OSDDrivers\Expand\DellModel\DellModel X12 Latitude 5420 10.0 A00\5420\win10\x64\input\MDG8X_A00-00\Drivers\x64\release.dat" "Drivers\x64\release.dat"
+
